@@ -1,0 +1,9 @@
+a=[1,2,3,4,5,("python","django",2,3),"hello"]
+b=a[5][1]
+print(b)
+c=a[5][1][0]
+print(c)
+d=a[6][1:4:1]
+print(d)
+e=a[4]
+print(e)

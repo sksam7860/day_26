@@ -1,0 +1,13 @@
+a=("python","[1,2,3,4,5]",3,5)
+b=a[1][7]
+print(b)
+c=a[1][1]
+print(c)
+d=a[0][2:6:1]
+print(d)
+e=a[1][3]
+print(e)
+f=a[1][0]
+print(f)
+g=a[1][10]
+print(g)
